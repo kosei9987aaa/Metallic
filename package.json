@@ -1,6 +1,4 @@
-"scripts": {
-  "postinstall": "corepack use pnpm@*"
-}
+
 {
   "name": "metallic",
   "version": "2.1.0",
@@ -52,5 +50,8 @@
   },
   "engines": {
     "node": ">=20.11.0"
+  }
+  "scripts": {
+  "postinstall": "corepack use pnpm@*"
   }
 }
