@@ -1,3 +1,6 @@
+"scripts": {
+  "postinstall": "corepack use pnpm@*"
+}
 {
   "name": "metallic",
   "version": "2.1.0",
